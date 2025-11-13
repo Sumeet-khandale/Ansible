@@ -1,6 +1,5 @@
 # Ansible
 
- Next Task: Generated a new Ansible role named **kubernetes** using  
-`ansible-galaxy role init kubernetes`  
-This created a role folder (with defaults, files, handlers, meta, tasks, templates, tests, and vars) ready for adding Kubernetes installation tasks.
-
+The **Ansible-installing-nginx** folder contains a detailed `README.md` that documents the entire Ansible setup process.  
+It includes step-by-step instructions for SSH configuration, inventory creation, ad-hoc commands, playbook execution, and Nginx installation.  
+This serves as a complete reference for setting up and running Ansible on Ubuntu EC2 instances.
